@@ -38,9 +38,6 @@ Welcome to the **Responsive Blog Website** repository! This project is a fully r
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## License
-This project is open-source and available under the **MIT License**.
-
 ## Contact
-For any issues or improvements, open an issue or reach out to me at [your-email@example.com].
+For any issues or improvements, open an issue or reach out to me at [justcode790@gmail.com].
 
